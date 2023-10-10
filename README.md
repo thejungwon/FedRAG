@@ -4,6 +4,9 @@
 https://github.com/thejungwon/FedRAG/assets/12247655/da3cb11e-a1b8-4054-b049-19869aade89a
 
 
+## Prerequisite
+- OpenAI API Key
+- Python 3.9
 ## Install
 
 ```
