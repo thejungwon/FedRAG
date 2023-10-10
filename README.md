@@ -1,11 +1,16 @@
 # FedRAG: Federated Retrieval Augmented Generation
 
-
+## Demo Video
 
 https://github.com/thejungwon/FedRAG/assets/12247655/27ae067c-23e9-4e70-8f7a-b94e21ee8454
 
-
 (Should the video above fail to play, click [here](https://github.com/thejungwon/FedRAG/blob/main/materials/demo-video.mp4) to view it directly.)
+
+## How it Works
+![Picture1](https://github.com/thejungwon/FedRAG/assets/12247655/79546a2e-c976-4a2f-8c06-e17024d53b52)
+
+
+
 
 ## Prerequisite
 - OpenAI API Key
