@@ -1,6 +1,9 @@
 # FedRAG: Federated Retrieval Augmented Generation
 
-https://github.com/thejungwon/FedRAG/assets/12247655/da3cb11e-a1b8-4054-b049-19869aade89a
+
+
+https://github.com/thejungwon/FedRAG/assets/12247655/27ae067c-23e9-4e70-8f7a-b94e21ee8454
+
 
 
 ## Prerequisite
